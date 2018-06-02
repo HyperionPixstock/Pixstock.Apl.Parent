@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "../Pixstock.Doc"
+			"path": "../Pixstock.Doc",
+			"name": "ドキュメント"
 		},
 		{
 			"path": "."
