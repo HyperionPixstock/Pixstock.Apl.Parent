@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../Pixstock.Doc"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Pixstock.Apl.App"
+		},
+		{
+			"path": "../Pixstock.Apl.App.View"
+		},
+		{
+			"path": "../Pixstock.Common.Core"
+		},
+		{
+			"path": "../Pixstock.Common.Model"
+		}
+	],
+	"settings": {}
+}
